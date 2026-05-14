@@ -144,15 +144,4 @@ The main objective of GramaSanjeevini is to provide an easy and accessible healt
 
 ---
 
-# Author
 
-## Nisarga K N
-
-Android Application Developer  
-Cambridge Institute of Technology
-
----
-
-# GitHub Repository
-
-Add your GitHub repository link here.
